@@ -1,0 +1,7 @@
+PyQt6
+pandas
+numpy
+math
+sys
+os
+scipy
