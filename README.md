@@ -1,3 +1,6 @@
+## Disclaimer
+This project is an independent personal project built using general chemical engineering principles. It does not contain any proprietary or confidential information from any employer.
+
 # 🧪 Batch Membrane Module Calculator (PyQt6)
 
 > Desktop application to determine the required number of membrane modules in series for an industrial-scale two-pass batch separation process.
